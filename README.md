@@ -79,15 +79,18 @@ The E-Commerce Interface project is a Python-based platform aimed at simplifying
 ## Screenshots
 
 - **Landing Page**: 
-  ![image](https://github.com/user-attachments/assets/33a4ad1a-a3c8-437f-a58a-d16084d830ae)
+
+![image](https://github.com/user-attachments/assets/33a4ad1a-a3c8-437f-a58a-d16084d830ae)
 
 
 - **Product Selection**:
-  ![image](https://github.com/user-attachments/assets/64b3e283-bf64-4230-8b28-a582fe121ada)
+
+![image](https://github.com/user-attachments/assets/64b3e283-bf64-4230-8b28-a582fe121ada)
 
 
 - **Invoice Generation**:
-  ![image](https://github.com/user-attachments/assets/7eda0872-411c-45af-ad19-9dd3b868394b)
+
+![image](https://github.com/user-attachments/assets/7eda0872-411c-45af-ad19-9dd3b868394b)
 
 
 
